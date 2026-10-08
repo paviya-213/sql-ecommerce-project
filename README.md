@@ -39,7 +39,7 @@ The project includes SQL queries to analyze customers,product,orders,quantities,
     # Project Purpose
     This project was created to practice SQL and develop analysis skills using a real-world e-commerce scenario.
     # Author
-    Paviya
+    Paviya Ramasamy
     
       
     
