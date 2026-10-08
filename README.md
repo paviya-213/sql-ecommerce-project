@@ -1,12 +1,12 @@
 # sql-ecommerce-project
-##Project overview
+# Project overview
 This project analyzez e-comerce sales data using MySQL.
 The project includes SQL queries to analyze customers,product,orders,quantities,prices and sales
 # Tools used
 - MYSQL
 - MySQL Workbench
 - SQL
-  #Database Tables
+  # Database Tables
   - Customers
   - Products
   - Orders
