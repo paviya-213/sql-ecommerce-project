@@ -36,9 +36,9 @@ The project includes SQL queries to analyze customers,product,orders,quantities,
     8.customer-wise order analysis
     9.Highest and lowest product values
     10.Combined customer,order and product analysis
-    #Project Purpose
+    # Project Purpose
     This project was created to practice SQL and develop analysis skills using a real-world e-commerce scenario.
-    #Author
+    # Author
     Paviya
     
       
